@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hannah Lee!
-- 👀 I'm passionate about software engineering and data analytics.
 - 📚 I’m currently studying mathematics at the University of Texas at Austin.
 - 📫 How to reach me: hanlee021@gmail.com
 
